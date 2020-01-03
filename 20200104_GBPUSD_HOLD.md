@@ -21,6 +21,6 @@ Month |  |  |  |  |  |
 
 ![MACD](20200104_GBPUSD_MACD.PNG)
 
-## RSI (DAy)
+## RSI (DAY)
 
 ![RSI](20200104_GBPUSD_RSI.PNG)
