@@ -1,4 +1,4 @@
-# 20200104 GBPUSD - HOLD
+# 20200108 GBPUSD - HOLD
 
 ## Notes
 
